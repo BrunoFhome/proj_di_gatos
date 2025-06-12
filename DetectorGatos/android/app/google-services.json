@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "226290015616",
+    "project_id": "detectorgatos",
+    "storage_bucket": "detectorgatos.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:226290015616:android:a569a3f0d3018aa9277565",
+        "android_client_info": {
+          "package_name": "com.bruno.acheimeugato"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsi0eltPzFDoWBv3xfdsXmud53i_qfkY4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
